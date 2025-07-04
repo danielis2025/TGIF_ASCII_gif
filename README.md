@@ -4,7 +4,7 @@ This Python script creates a fun ASCII animation in the terminal that spells out
 
 ## Features
 
-- Terminal-based ASCII animation of the letters T, G, I, F
+- Terminal-based ASCII animation of the letters **T, G, I, F**
 - Final celebratory message: "🎉 Thank God It's Friday! 🎉"
 - Saves each frame as a PNG image
 - Compiles all frames into an animated GIF
