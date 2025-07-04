@@ -14,6 +14,8 @@ This Python script creates a fun ASCII animation in the terminal that spells out
 - Python 3.x
 - `Pillow` library for image creation and GIF generation
 - `time` module (standard library)
-### **IMPORTANT!** Install Pillow if not already installed
+### <span style="color: red;">IMPORTANT!</span>
+- Install Python Pillow if not already installed.
+- Use `pip install pillow`
 
 
