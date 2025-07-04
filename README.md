@@ -1,6 +1,5 @@
 # Create a README.md file for the TGIF ASCII animation script
 
-readme_content = """
 # TGIF ASCII Animation 🎉
 
 This Python script creates a fun ASCII animation in the terminal that spells out **TGIF** (Thank God It's Friday) and ends with a celebratory message. It also generates a GIF and PNG frames of the animation for sharing or reuse.
